@@ -63,7 +63,7 @@ that ADR before trusting the row. Two columns deserve suspicion in particular:
   compression is mine and the ADR is the source of truth.
 - **model generation** — filled in when the ADR itself names a generation, and left as
   "not model-attributed" when it credits the substrate (a built-in, a tool, an official
-  default) instead. It is never inferred. Six of the 27 rows name a generation; five more
+  default) instead. It is never inferred. Seven of the 27 rows name a generation; four more
   credit a generation change without naming one; the remaining sixteen credit the substrate.
   That split is itself a finding: most of these components were not made obsolete by a
   smarter model, they were made obsolete by the product growing a feature.
